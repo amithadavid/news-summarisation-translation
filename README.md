@@ -1,5 +1,7 @@
 # news-summarisation-translation
-Python-based project leveraging NLP techniques for news summarization and translation to foreign language; streamlined NLP pipeline utilizing tools like NLTK, Hugging Face Transformers Library, and the Helsinki-NLP/opus-mt Model for text processing, summarization, and translation.
+- Python-based project leveraging NLP techniques for news summarization and translation to foreign language; streamlined NLP pipeline utilizing tools like NLTK, Hugging Face Transformers Library, and the Helsinki-NLP/opus-mt Model for text processing, summarization, and translation.
+- done in Google Colab
+- English news summarisation (scraped from Google News) and translation into French
 
 **Problem Statement**
  - Breaking the language barrier (translation): inability to access news from other countries because of the language barrier limits understanding of global events.
